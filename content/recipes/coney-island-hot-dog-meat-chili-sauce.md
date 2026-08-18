@@ -1,6 +1,6 @@
 ---
 title: Coney Island Hot Dog Meat Chili Sauce
-category: Dinner
+category: Sauces
 ingredients:
   - 1-1/2 pounds ground beef
   - 1 cup of water
