@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF7E5F" />
+      <stop offset="100%" stop-color="#FEB47B" />
+    </linearGradient>
+  </defs>
+  <!-- Rounded Square Background -->
+  <rect width="512" height="512" rx="128" fill="#1E1E24" />
+  <!-- "V" Shaped Chef Knife & Fork Concept -->
+  <path d="M140 120 L240 370 C248 390, 264 390, 272 370 L372 120" stroke="url(#orangeGrad)" stroke-width="48" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <circle cx="256" cy="160" r="28" fill="url(#orangeGrad)" />
+</svg>
