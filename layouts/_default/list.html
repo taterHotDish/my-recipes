@@ -15,11 +15,11 @@
 <body>
   <h1>{{ .Title }}</h1>
 
-  <!-- Group by category and sort categories A-Z -->
-  {{ range (.Pages.GroupByParam "category").ByKey }}
+  <!-- Group by category, then sort category headers A-Z -->
+  {{ range sort (.Pages.GroupByParam "category") "Key" "asc" }}
     <h2>{{ .Key }}</h2>
     <ul>
-      <!-- Sort recipes within this category A-Z -->
+      <!-- Sort recipes within each category A-Z -->
       {{ range .Pages.ByTitle }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
