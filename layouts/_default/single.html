@@ -24,7 +24,8 @@
     <h3>Ingredients</h3>
     <ul>
       {{ range .Params.ingredients }}
-        <li>{{ . }}</li>
+        <!-- If stored as object: {{ .ingredient }}, if string: {{ . }} -->
+        <li>{{ if reflect.IsMap . }}{{ .ingredient }}{{ else }}{{ . }}{{ end }}</li>
       {{ end }}
     </ul>
   </div>
