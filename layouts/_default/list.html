@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin-bottom: 0.5rem; }
+    a { color: #0066cc; text-decoration: none; font-size: 1.2rem; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>{{ .Title }}</h1>
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ if .Params.category }}<span>— <em>{{ .Params.category }}</em></span>{{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</body>
+</html>

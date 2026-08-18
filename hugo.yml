@@ -1,0 +1,12 @@
+baseURL: "https://taterhotdish.github.io/my-recipes/" # Replace with your custom domain if using one
+title: "My Recipes"
+languageCode: "en-us"
+
+# Tells Hugo where Decap publishes content
+contentDir: "content"
+
+# Enables simple HTML output for content lists
+outputs:
+  home: ["HTML", "RSS"]
+  section: ["HTML"]
+  page: ["HTML"]

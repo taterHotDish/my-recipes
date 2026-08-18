@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }
+    .meta { color: #666; font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .ingredients { background: #f9f9f9; padding: 1rem 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
+  </style>
+</head>
+<body>
+  <p><a href="../../">← Back to Recipes</a></p>
+  <h1>{{ .Title }}</h1>
+  
+  <div class="meta">
+    {{ if .Params.category }}<strong>Category:</strong> {{ .Params.category }} | {{ end }}
+    {{ if .Params.prep_time }}<strong>Prep Time:</strong> {{ .Params.prep_time }} | {{ end }}
+    {{ if .Params.cook_time }}<strong>Cook Time:</strong> {{ .Params.cook_time }}{{ end }}
+  </div>
+
+  {{ if .Params.ingredients }}
+  <div class="ingredients">
+    <h3>Ingredients</h3>
+    <ul>
+      {{ range .Params.ingredients }}
+        <li>{{ . }}</li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  <h3>Instructions & Notes</h3>
+  <div class="instructions">
+    {{ .Content }}
+  </div>
+</body>
+</html>
