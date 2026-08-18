@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /admin
+
+Sitemap: https://taterhotdish.github.io/my-recipes/sitemap.xml
