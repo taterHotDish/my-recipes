@@ -15,8 +15,8 @@
 <body>
   <h1>{{ .Title }}</h1>
 
-  <!-- Group by category, then sort category headers A-Z -->
-  {{ range sort (.Pages.GroupByParam "category") "Key" "asc" }}
+  <!-- Query all regular pages across the site -->
+  {{ range sort (.Site.RegularPages.GroupByParam "category") "Key" "asc" }}
     <h2>{{ .Key }}</h2>
     <ul>
       <!-- Sort recipes within each category A-Z -->
