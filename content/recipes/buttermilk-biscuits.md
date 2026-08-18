@@ -3,8 +3,8 @@ title: "Buttermilk Biscuits "
 category: Breads
 servings: 8
 ingredients:
-  - "Two cups all purpose flour "
-  - "Six tablespoons butter "
+  - "2 cups all purpose flour "
+  - "6 tablespoons butter "
   - "1 cup buttermilk "
   - "Hefty pinch of salt "
 ---
