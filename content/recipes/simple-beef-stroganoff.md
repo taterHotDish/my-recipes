@@ -1,5 +1,5 @@
 ---
-title: Simple Beef Stroganoff
+title: Beef Stroganoff - Simple
 category: Dinner
 prep_time: 5 minutes
 cook_time: 15 minutes
