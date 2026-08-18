@@ -11,19 +11,20 @@
     a { color: #0066cc; text-decoration: none; font-size: 1.1rem; }
     a:hover { text-decoration: underline; }
   </style>
-  <!-- Modern SVG Favicon -->
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+  <!-- Primary SVG Favicon (Firefox / Modern Browsers) -->
+  <link rel="icon" type="image/svg+xml" href='{{ "favicon.svg" | relURL }}'>
   
-  <!-- Standard PNG and ICO Fallbacks -->
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="shortcut icon" href="/favicon.ico">
+  <!-- Standard ICO / PNG Fallbacks -->
+  <link rel="icon" type="image/png" sizes="32x32" href='{{ "favicon-32x32.png" | relURL }}'>
+  <link rel="icon" type="image/png" sizes="16x16" href='{{ "favicon-16x16.png" | relURL }}'>
+  <link rel="shortcut icon" href='{{ "favicon.ico" | relURL }}'>
   
-  <!-- Apple Touch Icon for iOS -->
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <!-- Apple Touch Icon -->
+  <link rel="apple-touch-icon" sizes="180x180" href='{{ "apple-touch-icon.png" | relURL }}'>
   
-  <!-- Web App Manifest for Android/Chrome -->
-  <link rel="manifest" href="/site.webmanifest">
+  <!-- Web App Manifest -->
+  <link rel="manifest" href='{{ "site.webmanifest" | relURL }}'>
 </head>
 <body>
   <h1>{{ .Title }}</h1>
