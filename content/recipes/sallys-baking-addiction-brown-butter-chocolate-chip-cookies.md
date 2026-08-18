@@ -19,6 +19,7 @@ ingredients:
   - 1 and 1/2 cups (270g) semi-sweet chocolate chips
   - "optional: flaky sea salt, for topping"
 ---
+#### Instructions
 1. Brown the butter: Slice the butter into pieces and place in a light-colored skillet. The light colored helps you determine when the butter begins browning. Melt the butter over medium heat and stir or whisk constantly. Once melted, the butter will begin to foam. Keep stirring/whisking. After 5–7 minutes, the butter will begin browning and you’ll notice lightly browned specks begin to form at the bottom of the pan, which are the milk solids toasting. Cook until it is golden in color. Once browned, remove from heat immediately and pour into a heatproof bowl, including all of the browned bits (flavor!). Let cool for 10 minutes, then place in the refrigerator and chill until solid, about 90 minutes. After about 30 minutes, tightly cover the bowl.
 2. Remove the solidified brown butter from the refrigerator and spoon it into a large bowl (or the bowl of your stand mixer). Using a handheld mixer or stand mixer fitted with a paddle attachment, beat on high speed for 1–2 minutes until smooth and creamy. It may look slightly grainy at first—keep beating and it will come together. If the butter is too firm to cream, let it sit at room temperature for 5–10 minutes. You can also microwave it for 5–8 seconds to slightly soften it, but do not melt it; it should remain solid, just softened enough to beat smoothly.
 3. Add the brown sugar and granulated sugar and beat on medium-high speed until lightened in color and combined, about 2 minutes. Add the egg, egg yolk, and vanilla extract and beat until combined. Scrape down the sides and bottom of the bowl as needed.
@@ -28,7 +29,7 @@ ingredients:
 7. Bake for 12–14 minutes, or until the edges are lightly golden brown. The centers will look soft when you remove them from the oven. Cool on the baking sheet for 5 minutes. During this time, you can press a few extra chocolate chips into the tops (just for looks!). The cookies will slightly deflate as they cool. After 5 minutes, transfer to a wire rack to cool completely.
 8. Store in an airtight container at room temperature for up to 5 days.
 
-## Notes
+#### Notes
 
 1. Make Ahead Instructions: You can make the cookie dough and chill it in the refrigerator for up to 3 days. Baked cookies freeze well for up to 3 months. Thaw at room temperature. Unbaked cookie dough balls freeze well for up to 3 months. Bake frozen cookie dough balls for an extra minute, no need to thaw. Read my tips and tricks on how to freeze cookie dough.
 
