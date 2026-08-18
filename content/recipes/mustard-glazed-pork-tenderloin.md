@@ -5,7 +5,7 @@ ingredients:
   - 1-1/2 pounds pork tenerloins
   - 3 tbsp brown sugar
   - 2 tbsp dijon mustard
-  - 1 sprig or 2 tbsp dried tyme
+  - 1 sprig or 2 tbsp dried thyme
 ---
 1. Pat the tenderloins dry with paper towels.
 2. Combine the remaining ingredients in a bowl and stir. Add pork tenderloins and turn to coat well with marinade. Marinate for 15 minutes or as long as overnight.
