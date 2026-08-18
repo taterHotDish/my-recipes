@@ -16,7 +16,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Category", name: "category", widget: "select", options: ["Breakfast", "Lunch", "Dinner", "Dessert", "Snacks"] }
+      - { label: "Category", name: "category", widget: "select", options: ["Breakfast", "Dinner", "Dessert", "Snacks", "Sides", "Sauces", "Spices", "Drinks", "Breads", "Soups"] }
       - { label: "Prep Time", name: "prep_time", widget: "string", required: false }
       - { label: "Cook Time", name: "cook_time", widget: "string", required: false }
       - { label: "Servings", name: "servings", widget: "number", value_type: "int", required: false }
