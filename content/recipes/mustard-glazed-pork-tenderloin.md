@@ -7,7 +7,7 @@ ingredients:
   - 2 tbsp dijon mustard
   - 2 tbsp dry sherry
   - 1 sprig or 2 tbsp dried rosemary
-  - 1tbsp olive oil
+  - 1 tbsp olive oil
   - Salt and pepper to taste
 ---
 1. Pat the tenderloins dry with paper towels.
