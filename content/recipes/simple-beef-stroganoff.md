@@ -19,5 +19,5 @@ ingredients:
 2. Melt butter in a medium saucepan. Add mushrooms and fry until golden. 
 3. Brown ground beef in a large skillet
 4. Cook egg noodles until tender yet firm. Drain and set aside.
-5. Drain beef. Stir in soup, sour cream, and garlic, mushrooms, and water. Simmer for 10 minutes.
+5. Drain beef. Stir in soup, sour cream, garlic, mushrooms, and water. Simmer for 10 minutes.
 6. Remove from heat. Stir in egg noodles and salt and pepper.
