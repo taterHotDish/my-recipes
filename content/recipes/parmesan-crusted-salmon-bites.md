@@ -13,4 +13,4 @@ ingredients:
 1. Cube salmon. In a medium bowl, coat evenly with olive oil.
 2. In a separate bowl, mix parmesan, garlic powder, paprika, salt, and pepper.
 3. Coat salmon in parmesan and seasoning mixture.
-4. Air fry at 375 for 6 minutes.
+4. Air fry at 375℉ for 6 minutes.
