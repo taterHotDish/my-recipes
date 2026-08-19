@@ -3,9 +3,12 @@ title: Mustard-Glazed Pork Tenderloin
 category: Dinner
 ingredients:
   - 1-1/2 pounds pork tenerloins
-  - 3 tbsp brown sugar
+  - 2 tbsp brown sugar
   - 2 tbsp dijon mustard
-  - 1 sprig or 2 tbsp dried thyme
+  - 2 tbsp dry sherry
+  - 1 sprig or 2 tbsp dried rosemary
+  - 1tbsp olive oil
+  - Salt and pepper to taste
 ---
 1. Pat the tenderloins dry with paper towels.
 2. Combine the remaining ingredients in a bowl and stir. Add pork tenderloins and turn to coat well with marinade. Marinate for 15 minutes or as long as overnight.
