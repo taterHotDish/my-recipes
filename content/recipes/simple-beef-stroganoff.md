@@ -11,9 +11,10 @@ ingredients:
   - 1 tablespoon garlic powder, or to taste
   - 1/2 cup sour cream
   - salt and ground black pepper to taste
+  - 1/2 cup water
 ---
 1. Gather all ingredients
 2. Brown ground beef in a large skillet
 3. Cook egg noodles until tender yet firm. Drain and set aside.
-4. Drain beef. Stir in soup, sour cream, and garlic. Simmer for 10 minutes.
+4. Drain beef. Stir in soup, sour cream, and garlic, and water. Simmer for 10 minutes.
 5. Remove from heat. Stir in egg noodles and salt and pepper.
