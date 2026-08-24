@@ -1,6 +1,7 @@
 ---
 title: Au Jus
 category: Sauces
+servings: 1
 ingredients:
   - 4 tbsp beef drippings
   - 2 tbsp red wine
