@@ -13,3 +13,6 @@ ingredients:
 2. Bring saucepan to a boil until noodles are very al dente.
 3. Mix in remaining ingredients. Stir until cheeses are melted. Reduce heat to a low simmer.
 4. Continue to stir occasionally and simmer until you've reached desired noodle texture. 4-6 minutes depending on type of noodle used.
+
+### Notes
+- Shred your own cheese. Pre-shredded cheese contains additives that will leave your cheese sauce with a gritty texture. 
