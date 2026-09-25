@@ -4,9 +4,8 @@ category: Dinner
 prep_time: 2 hours
 cook_time: 30-35 minutes
 ingredients:
-  - 1 dough ball - <a
-    href="https://recipes.vrylox.com/recipes/1-hour-pizza-dough/">1-hour pizza
-    dough</a>
+  - 1 dough ball - [1-hour pizza
+    dough](https://recipes.vrylox.com/recipes/1-hour-pizza-dough/)
   - 1 cup marinara sacue
   - 3 cups mozzarella
   - 1 pound sliced salami
