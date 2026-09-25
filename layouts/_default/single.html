@@ -39,7 +39,7 @@
     <h3>Ingredients</h3>
     <ul>
       {{ range .Params.ingredients }}
-        <li>{{ if reflect.IsMap . }}{{ .ingredient }}{{ else }}{{ . }}{{ end }}</li>
+        <li>{{ if reflect.IsMap . }}{{ .ingredient | markdownify }}{{ else }}{{ . | markdownify }}{{ end }}</li>
       {{ end }}
     </ul>
   </div>

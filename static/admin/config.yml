@@ -23,5 +23,8 @@ collections:
       - label: "Ingredients"
         name: "ingredients"
         widget: "list"
-        field: { label: "Ingredient", name: "ingredient", widget: "string" }
-      - { label: "Instructions / Notes", name: "body", widget: "markdown" }
+        field: { label: "Ingredient", name: "ingredient", widget: "markdown" }
+      - label: "Instructions / Notes"
+        name: "body"
+        widget: "markdown"
+        hint: "Use the link button in the toolbar, or Markdown such as [another recipe](/recipes/recipe-slug/)."
